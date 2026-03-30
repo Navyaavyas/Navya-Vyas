@@ -16,4 +16,4 @@ As a Student Digital Ambassador, I follow these guidelines to maintain a profess
 ---
 
 ### **Personal Commitment**
-As a B.Tech student specializing in **Gaming Technology**, I understand that my digital footprint is a long-term asset. I commit to using these platforms to build a professional identity that reflects my technical skills and my responsibility as a member of the VIT Bhopal community.
+As a B.Tech student specializing in **AI & ML**, I understand that my digital footprint is a long-term asset. I commit to using these platforms to build a professional identity that reflects my technical skills and my responsibility as a member of the VIT Bhopal community.
