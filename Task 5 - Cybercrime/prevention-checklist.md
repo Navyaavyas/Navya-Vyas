@@ -23,6 +23,6 @@ Follow these essential rules to protect your financial and digital identity from
 ---
 
 **Prepared by:**
-- **Mohit Borekar**
-- **Reg No:** 25BGC10008
-- **Branch:** B.Tech CSE (Gaming Technology)
+- **Navya Vyas**
+- **Reg No:** 25BAI10566
+- **Branch:** B.Tech CSE (AI & ML)
